@@ -1,0 +1,1 @@
+### css, javascript, image 파일들을 보관할 폴더
